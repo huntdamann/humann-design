@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";const e=document.querySelector(".title-container"),t=document.querySelector(".nav-container");document.querySelector("#exit");e.addEventListener("click",()=>{t.classList.toggle("show")});
